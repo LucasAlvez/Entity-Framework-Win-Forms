@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\MinhaEmpresa.CadCli.Core.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\MinhaEmpresa.CadCli.Core.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\MinhaEmpresa.CadCli.Core.dll.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\obj\Debug\Empresa.CadCli.ConsoleAPP.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\obj\Debug\Empresa.CadCli.ConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\obj\Debug\Empresa.CadCli.ConsoleAPP.csproj.CopyComplete
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\obj\Debug\MinhaEmpresa.CadCli.ConsoleAPP.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.ConsoleAPP\obj\Debug\MinhaEmpresa.CadCli.ConsoleAPP.pdb

@@ -1,0 +1,38 @@
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.WinAPP.exe.config
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.WinAPP.exe
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.WinAPP.pdb
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.csprojResolveAssemblyReference.cache
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.Form1.resources
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.Properties.Resources.resources
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.csproj.GenerateResource.Cache
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.exe
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.pdb
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.dll
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.xml
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.exe
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.Core.dll
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.pdb
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.Core.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.WinAPP.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.WinAPP.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.WinAPP.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.Core.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.ConsoleAPP.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.Core.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\MinhaEmpresa.CadCli.Core.dll.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.Form1.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.csproj.CopyComplete
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.WinAPP\obj\Debug\MinhaEmpresa.CadCli.WinAPP.pdb

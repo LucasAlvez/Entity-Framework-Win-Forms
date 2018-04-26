@@ -1,0 +1,22 @@
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\MinhaEmpresa.CadCli.Core.dll.config
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\MinhaEmpresa.CadCli.Core.dll
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\MinhaEmpresa.CadCli.Core.pdb
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.dll
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.xml
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.csprojResolveAssemblyReference.cache
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.dll
+C:\dev\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\MinhaEmpresa.CadCli.Core.dll.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\MinhaEmpresa.CadCli.Core.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\MinhaEmpresa.CadCli.Core.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.csproj.CopyComplete
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\MinhaEmpresa.CadCli\MinhaEmpresa.CadCli.Core\obj\Debug\MinhaEmpresa.CadCli.Core.pdb
